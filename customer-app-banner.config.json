@@ -25,6 +25,7 @@
       "description": "Send love home this Christmas. Choose from our special discounted bundles. We deliver directly to your family!",
       "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
       "cta": {
+        "label":"Buy Xmas Bundle",
         "params": {},
         "route": "/(app)/marketplace/christmas_campaign"
       },
