@@ -2,7 +2,7 @@
   "inline": [
     {
       "id": "christas_sale",
-      "image": "https://res.cloudinary.com/devvie/image/upload/v1765292141/official_store_banner_wwtpf2.png",
+      "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
       "cta": {
         "params": {},
         "route": "/(app)/marketplace/christmas_campaign"
@@ -23,7 +23,7 @@
       "id": "christas_sale",
       "title": "🎄 Christmas Gift Bundles!",
       "description": "Send love home this Christmas. Choose from our special discounted bundles. We deliver directly to your family!",
-      "image": "https://res.cloudinary.com/devvie/image/upload/v1765292141/official_store_banner_wwtpf2.png",
+      "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
       "cta": {
         "params": {},
         "route": "/(app)/marketplace/christmas_campaign"
