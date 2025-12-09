@@ -3,6 +3,10 @@
     {
       "id": "christas_sale",
       "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
+      "imageAspectRatio":{
+         "width": 2,
+         "height": 1,
+      },
       "cta": {
         "params": {},
         "route": "/(app)/marketplace/christmas_campaign"
@@ -24,6 +28,10 @@
       "title": "🎄 Christmas Gift Bundles!",
       "description": "Send love home this Christmas. Choose from our special discounted bundles. We deliver directly to your family!",
       "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
+      "imageAspectRatio":{
+         "width": 2,
+         "height": 1,
+      },
       "cta": {
         "label":"Buy Xmas Bundle",
         "params": {},
