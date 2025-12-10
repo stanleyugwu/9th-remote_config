@@ -32,7 +32,7 @@
                 "height": 1
             },
             "cta": {
-                "label": "Buy Xmas Bundle",
+                "label": "Buy Your Holiday Bundle",
                 "params": {},
                 "route": "/(app)/marketplace/christmas_campaign"
             },
