@@ -1,49 +1,49 @@
 {
-    "inline": [
-        {
-            "id": "christas_sale",
-            "image": "https://res.cloudinary.com/devvie/image/upload/v1765292141/official_store_banner_wwtpf2.png",
-            "imageAspectRatio": {
-                "width": 2,
-                "height": 1
-            },
-            "cta": {
-                "params": {},
-                "route": "/(app)/marketplace/ninth_official_store"
-            },
-            "visibility": {
-                "platform": "all",
-                "loggedIn": true
-            },
-            "priority": 10,
-            "active": true,
-            "createdAt": "2025-12-09T11:42:48.127Z",
-            "expiresAt": "2026-01-10T00:00:00Z"
-        }
-    ],
-    "modals": [
-        {
-            "id": "christas_sale",
-            "title": "🎄 Christmas Gift Bundles!",
-            "description": "Send love home this Christmas. Choose from our special discounted bundles. We deliver directly to your family!",
-            "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
-            "imageAspectRatio": {
-                "width": 2,
-                "height": 1
-            },
-            "cta": {
-                "label": "Buy Xmas Bundle",
-                "params": {},
-                "route": "/(app)/marketplace/christmas_campaign"
-            },
-            "visibility": {
-                "platform": "all",
-                "loggedIn": true
-            },
-            "priority": 10,
-            "active": true,
-            "createdAt": "2025-12-09T11:42:48.127Z",
-            "expiresAt": "2026-01-10T00:00:00Z"
-        }
-    ]
+  "inline": [
+    {
+      "id": "christas_sale",
+      "image": "https://res.cloudinary.com/devvie/image/upload/v1765292141/official_store_banner_wwtpf2.png",
+      "imageAspectRatio": {
+        "width": 2,
+        "height": 1
+      },
+      "cta": {
+        "params": {},
+        "route": "/(app)/marketplace/ninth_official_store"
+      },
+      "visibility": {
+        "platform": "all",
+        "loggedIn": true
+      },
+      "priority": 10,
+      "active": true,
+      "createdAt": "2025-12-09T11:42:48.127Z",
+      "expiresAt": "2026-01-10T00:00:00Z"
+    }
+  ],
+  "modals": [
+    {
+      "id": "christas_sale",
+      "title": "🎄 Christmas Gift Bundles!",
+      "description": "Send love home this Christmas. Choose from our special discounted bundles. We deliver directly to your family!",
+      "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
+      "imageAspectRatio": {
+        "width": 2,
+        "height": 1
+      },
+      "cta": {
+        "label": "Buy Xmas Bundle",
+        "params": {},
+        "route": "/(app)/marketplace/christmas_campaign"
+      },
+      "visibility": {
+        "platform": "all",
+        "loggedIn": ":true"
+      },
+      "priority": 10,
+      "active": true,
+      "createdAt": "2025-12-09T11:42:48.127Z",
+      "expiresAt": "2026-01-10T00:00:00Z"
+    }
+  ]
 }
