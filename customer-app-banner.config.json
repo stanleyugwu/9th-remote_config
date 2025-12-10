@@ -2,14 +2,14 @@
   "inline": [
     {
       "id": "christas_sale",
-      "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
+      "image": "https://res.cloudinary.com/devvie/image/upload/v1765292141/official_store_banner_wwtpf2.png",
       "imageAspectRatio":{
          "width": 2,
          "height": 1,
       },
       "cta": {
         "params": {},
-        "route": "/(app)/marketplace/christmas_campaign"
+        "route": "/(app)/marketplace/ninth_official_store"
       },
       "visibility": {
         "platform": "all",
