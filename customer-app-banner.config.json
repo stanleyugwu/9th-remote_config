@@ -24,8 +24,8 @@
     "modals": [
         {
             "id": "christas_sale",
-            "title": "🎄 Christmas Gift Bundles!",
-            "description": "Send love home this Christmas. Choose from our special discounted bundles. We deliver directly to your family!",
+            "title": "🎄 Send Love Home This Christmas",
+            "description": "Give your family a complete Christmas package — cow, rice, oil, essentials and more. You pay from anywhere in the world, we shop and deliver joy straight to their doorstep.",
             "image": "https://res.cloudinary.com/devvie/image/upload/v1765293953/campaign_banner_vm7ur9.gif",
             "imageAspectRatio": {
                 "width": 2,
