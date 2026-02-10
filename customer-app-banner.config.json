@@ -19,6 +19,29 @@
             "active": true,
             "createdAt": "2025-12-09T11:42:48.127Z",
             "expiresAt": "2026-01-10T00:00:00Z"
+        },
+        {
+            "id": "promo",
+            "image": "https://res.cloudinary.com/devvie/image/upload/v1765292141/official_store_banner_wwtpf2.png",
+            "imageAspectRatio": {
+                "width": 2,
+                "height": 1
+            },
+            "cta": {
+                "params": {
+                    "phoneNumber": "+234 700 044 4999",
+                    "whatsAppNumber":"+234 814 674 5647"
+                },
+                "route": ""
+            },
+            "visibility": {
+                "platform": "all",
+                "loggedIn": false
+            },
+            "priority": 1,
+            "active": true,
+            "createdAt": "2026-02-10T08:50:24.333Z",
+            "expiresAt": "2026-04-30T23:00:00.000Z"
         }
     ],
     "modals": [
