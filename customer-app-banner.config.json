@@ -4,7 +4,7 @@
             "id": "promo",
             "image": "https://res.cloudinary.com/devvie/image/upload/v1770732415/FloatingBanner_rkrglc.jpg",
             "imageAspectRatio": {
-                "width": 2,
+                "width": 3,
                 "height": 1
             },
             "cta": {
