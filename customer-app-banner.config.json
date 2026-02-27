@@ -34,7 +34,7 @@
             },
             "cta": {
                 "params": {},
-                "route": "/(app)/marketplace/ninth_official_store"
+                "route": "/(products)/ninth_official_store"
             },
             "visibility": {
                 "platform": "all",
@@ -59,7 +59,7 @@
             "cta": {
                 "label": "Buy Your Holiday Bundle",
                 "params": {},
-                "route": "/(app)/marketplace/christmas_campaign"
+                "route": "/(products)/christmas_campaign"
             },
             "visibility": {
                 "platform": "all",
